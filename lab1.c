@@ -1,4 +1,4 @@
-main()
+hdfhikfmain()
 {
 	printf("Hello ISE");
 
